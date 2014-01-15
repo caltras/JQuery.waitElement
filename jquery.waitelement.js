@@ -29,6 +29,6 @@ $.fn.waitElement = function(fn,fnFail,time){
         		throw "Time out"
         	}
         }
-        console.log(self.selector+": time("+self.cont+")")
+        console.log(self.selector+": time("+self.cont+")");
     },1000);
 };
