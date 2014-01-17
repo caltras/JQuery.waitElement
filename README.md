@@ -26,3 +26,5 @@ $(**_selector_**).waitElement(_[fn,fnFail,time]_)
       }
   );
 ```
+
+MIT License
